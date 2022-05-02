@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Win10\Documents\TheConceptsAnd...ComputerProjects\plotting\plotting.h(19,23): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\Win10\Documents\TheConceptsAnd...ComputerProjects\plotting\Source.cpp(18): message : see reference to function template instantiation 'void OutputPlottingData<A>(const f &,double,double,const std::string &,const std::string &,const std::string &)' being compiled
+          with
+          [
+              f=A
+          ]
